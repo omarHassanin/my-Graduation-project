@@ -1,7 +1,7 @@
 spring:
    datasource:
      driverClassName: com.mysql.jdbc.Driver
-     url: jdbc:mysql://160.153.128.26:3306/test-pay
+     url: jdbc:mysql://160.153.128.26:3306/ali-pay
      username: admin-selema
      password: itisfine@today@282
    jpa:
